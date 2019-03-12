@@ -1,0 +1,71 @@
+body{
+    background: #7c7e77;
+    /* background-image: url("O.jpeg") ; */
+    background-size: 203px 160px;
+}
+/* * {
+    border: 1px solid black
+} */
+.big_table{
+display: flex;
+    height: 900opx;
+    width: 420px;
+    background: #fcfcfb;
+    flex-wrap: wrap;
+    margin-left: 33%;
+    margin-top: 0;
+    border: 1px solid black;
+
+
+}
+.big_table div {
+    border: 1px solid black;
+
+    height: 102px;
+    width: 138px;
+}
+h1 {
+    text-align: center;
+}
+.player1{
+position: relative;
+top: -73px;
+left: 92px;
+}
+.player2{
+    position: relative;
+    top: -124px;
+    left: 1067px;
+    
+}
+.player1R{
+        position: relative;
+        top:  -465px;
+        left: 98px;
+        
+}
+.player2R{
+    position: relative;
+top: -559px;
+    left: 1079px;
+            
+}
+button{
+    position: relative;
+       top: 90px;
+    left: 599px;;
+}
+.big_table div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-size-adjust: 20px;
+    background-size:50px 30px;
+
+}
+p{
+    font-size: 110px;
+}
+#a p{
+    color: red;
+}
