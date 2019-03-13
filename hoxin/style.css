@@ -222,5 +222,22 @@ text-align: center;
   width: 90px;
   position: relative;
   left: 1027px;
-  top: -374px;
+  top: -328px;
+  
 }
+  .P1{
+    background-color: rgb(238, 240, 186);
+      }
+    
+      .P1:after{
+     top: 100%;
+     width: 0;
+     border-top: 15.88px solid rgb(238, 240, 186);
+    }
+    .P1:before{
+     bottom: 100%;
+     border-bottom: 15.88px solid rgb(238, 240, 186);
+    
+    
+    }
+ 

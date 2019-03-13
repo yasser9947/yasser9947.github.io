@@ -192,9 +192,8 @@ function chose(x) {
                 changePlayer = 1;
                 redPlayer.push(arayHex.indexOf(x))
 
-                $("#P1").removeClass("hexagon").addClass("red");
-                $("#P2").removeClass("hexagon")
-
+                $("#P1").addClass("P1").removeClass("red");
+                $("#P2").removeClass("P1").addClass("green");
 
                 $(x).removeClass("checke")
 
@@ -227,8 +226,8 @@ function chose(x) {
             if ($(x).hasClass("checke")) {
 
                 $(x).removeClass("hexagon").addClass("green");
-                $("#P1").removeClass("hexagon").addClass("red");
-                $("#P2").removeClass("hexagon")
+                $("#P2").removeClass("green").addClass("P1")
+                $("#P1").removeClass("P1").addClass("red");
 
                 changePlayer = 0;
                 greenPlayer.push(arayHex.indexOf(x))

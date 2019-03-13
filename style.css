@@ -8,6 +8,8 @@ body {
 h1 {
     text-align: center;
     color: rgb(196, 166, 0);
+    font-family: 'Indie Flower', cursive;
+margin-top: 5%;
 }
 img {
 
@@ -30,5 +32,4 @@ margin-left:35% ;
 color: wheat;
 text-underline-position: none;
 box-shadow: wheat;
-background-color: chocolate;
 }
