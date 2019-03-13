@@ -1,0 +1,32 @@
+/* *{
+
+    border: 1px solid black;
+} */
+body {
+    background-image: url("background.jpg");
+}
+h1 {
+    text-align: center;
+    color: rgb(196, 166, 0);
+}
+img {
+
+    width: 300px;
+    height: 300px;
+}
+.big{
+    margin-top: 10%;
+    display: flex;
+    justify-content:space-around;
+}
+.big div {
+
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+}
+a{
+margin-left:35% ;
+color: wheat;
+text-underline-position: none;
+}
