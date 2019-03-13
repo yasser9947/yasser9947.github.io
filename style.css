@@ -11,8 +11,8 @@ h1 {
 }
 img {
 
-    width: 300px;
-    height: 300px;
+    width: 244px;
+    height: 232px;
 }
 .big{
     margin-top: 10%;
@@ -29,4 +29,6 @@ a{
 margin-left:35% ;
 color: wheat;
 text-underline-position: none;
+box-shadow: wheat;
+background-color: chocolate;
 }
