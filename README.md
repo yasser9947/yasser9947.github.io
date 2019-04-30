@@ -4,7 +4,7 @@ The challenge i have faced while programming it is easy kind of.
   
 
 
-The second game is called Areen’s game, the game has instructions “ 
+The second game is called hexon game, the game has instructions “ 
 First of all get your emulator , second make a deal , after that you have to make sequences between your color, if your color is red you have to click the blue bottom to arrange you red sequence then you will be the winner “ 
 Wish it clear for you.. 
 
