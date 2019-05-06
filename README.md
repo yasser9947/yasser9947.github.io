@@ -1,7 +1,7 @@
 # ** hexon Game**
 
 ## **- Technologies Used:**
-Html, Css, JavaScript, SweetAlert have been used to build hexon game.
+Html, Css, JavaScript, SweetAlert, jquery library  have been used to build hexon game.
 
 ## **- Approach Taken:**
 Starting with scketching the page on the paper, in order to develop best ways in designing and to save time as well. Afterthat, the borders of the game was initialized and added to it the onclick features, and more of functions and methods.
@@ -10,8 +10,7 @@ My Knowledge increased and my understand in flex box and position also JavaScrip
 A lot of challenge i versus and its about how to ues the logic by the  right way, and accuracy in real expression.. 
 also the most difficult thing i faced itd how to determine the winer it takes lot of time.
 ## **-  Installation instructions:**
-https://reemarayes.github.io/
-
+https://yasser9947.github.io/
 ## **- Game Instructions:**
 
 
