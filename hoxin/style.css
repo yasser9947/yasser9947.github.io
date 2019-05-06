@@ -25,6 +25,7 @@ margin-top: 0%;
 .big_table .row1,.row2,.row3,.row4,.row5 ,.row6 ,.row7{
 position: relative;
 width: 707px;
+margin-top: -20px;
 height: 154px;
 display: flex;
 }
