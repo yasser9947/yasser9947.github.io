@@ -5,28 +5,39 @@
 h1{
   font-family: 'Playfair Display', serif;
   text-align: center;
-  position: relative;
-  left: -41px;
 
+
+}
+.theTop{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  flex-flow: column;
+  align-items: center;
+  margin-bottom: 50px;
 }
 
 body{
   background: rgb(238, 240, 186);
 }
+.center {
+display: flex;
+justify-content: space-around;
+}
 /* <!-- start from her to make Beehive --> */
 .big_table{
     height: 375px;
-        width: 709px;
+      
 display: flex;
 flex-direction: column;
-margin-left: 33%;
+
 margin-top: 0%;
 }
 .big_table .row1,.row2,.row3,.row4,.row5 ,.row6 ,.row7{
 position: relative;
-width: 707px;
-margin-top: -20px;
-height: 154px;
+/* width: 707px; */
+/* margin-top: -20px; */
+margin-top: -19px;
 display: flex;
 }
 .row2 , .row4 ,.row6{
@@ -172,41 +183,36 @@ background-color: rgb(0, 255, 0);
     width: 0;
     border-top: 15.88px solid  rgb(0, 255, 3);
   }
-  h1 { 
-
-text-align: center;
-
-
-  }
+  
   h2 {
     position: relative;
   }
   #redplayer{
-    top: 246px;
+    /* top: 246px;
     right: -69px;
+   */
+    width: 190px; 
     color: red;
-    width: 190px;
 
   }
   #greenplayer{
-    top: 199px;
-    right: -954px;
+    /* top: 199px;
+    right: -954px; */
+    text-align: center;
     color: green;
     width: 190px;
 }
   
   img {
-    position: relative;
-    top: -104px;
-    left: 521px;
+   margin-bottom: 50px;
+  
     width: 146px;
     height: 131px;
   }
   /* reset button */
   #button{
-    position: relative;
-    top: 263px;
-    right: -556px;
+  
+   
     height: 23px;
     width: 72px;
     background: rgb(153, 142, 149);
@@ -214,16 +220,16 @@ text-align: center;
   
 .Player1 {
   width: 90px;
-  position: relative;
-  left: 108px;
-  top: -326px;
+  /* position: relative; */
+  /* left: 108px;
+  top: -326px; */
 }
 
 .Player2 {
   width: 90px;
-  position: relative;
+  /* position: relative;
   left: 1026px;
-  top: -371px;
+  top: -371px; */
   
 }
   .P1{
